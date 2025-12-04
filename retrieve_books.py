@@ -84,22 +84,32 @@ def get_books_from_space(space):
         {
             "title": "The Pragmatic Programmer",
             "author": "Andrew Hunt and David Thomas",
-            "category": "Software Engineering"
+            "category": "Software Engineering",
+            "isbn": "978-0135957059"
         },
         {
             "title": "Clean Code",
             "author": "Robert C. Martin",
-            "category": "Software Engineering"
+            "category": "Software Engineering",
+            "isbn": "978-0132350884"
         },
         {
             "title": "Design Patterns",
             "author": "Gang of Four",
-            "category": "Software Architecture"
+            "category": "Software Architecture",
+            "isbn": "978-0201633610"
         },
         {
             "title": "Introduction to Algorithms",
             "author": "Cormen, Leiserson, Rivest, and Stein",
-            "category": "Computer Science"
+            "category": "Computer Science",
+            "isbn": "978-0262033848"
+        },
+        {
+            "title": "Code Complete",
+            "author": "Steve McConnell",
+            "category": "Software Engineering",
+            "isbn": "978-0735619678"
         }
     ]
     
